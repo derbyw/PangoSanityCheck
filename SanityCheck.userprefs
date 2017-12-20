@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SanityCheck.Gtk3/SanityCheck.Gtk3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/derbyw/SanityCheck/gtk-sharp3-nuget/gtk-sharp/pango/generated/Pango/CairoHelper.cs" line="61" column="4" />
+      <Breakpoint file="/home/derbyw/SanityCheck/gtk-sharp3-nuget/gtk-sharp/gtk/generated/Gtk/Widget.cs" line="2556" column="5" />
+      <Breakpoint file="/home/derbyw/SanityCheck/gtk-sharp3-nuget/gtk-sharp/pango/generated/Pango/FontMap.cs" line="36" column="20" />
+      <Breakpoint file="/home/derbyw/SanityCheck/gtk-sharp3-nuget/gtk-sharp/gtk/generated/Gtk/PrintContext.cs" line="55" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
